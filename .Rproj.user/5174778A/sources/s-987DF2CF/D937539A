@@ -1,0 +1,32 @@
+{
+    "id": "D937539A",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612764803818.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "Compilado",
+        "caption": "Compilado",
+        "totalObservations": "62",
+        "displayedObservations": "62",
+        "variables": "51",
+        "cacheKey": "645D314E",
+        "object": "Compilado",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=Compilado&cache_key=645D314E&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 732244384676736623,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612764803818,
+    "read_only": false,
+    "read_only_alternatives": []
+}

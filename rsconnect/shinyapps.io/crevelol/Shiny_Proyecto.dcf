@@ -1,0 +1,12 @@
+name: Shiny_Proyecto
+title: Shiny_Proyecto
+username:
+account: crevelol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3598581
+bundleId: 4195964
+url: https://crevelol.shinyapps.io/Shiny_Proyecto/
+when: 1612793063.31083
+asMultiple: FALSE
+asStatic: FALSE
